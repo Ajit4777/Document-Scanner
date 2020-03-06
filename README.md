@@ -24,31 +24,31 @@ To run the program, You need to run the DocumentScannerGUI.py
 
 Open Anaconda Prompt
 
-![](D:/PythonProjects/ProjectFiles/Ajit/Document-Scanner/example-images/AnacondaPrompt.JPG)
+![](./example-images/AnacondaPrompt.JPG)
 
 Then browse and Run your program, Like DocumentScannerGUI.py
 
-![](D:/PythonProjects/ProjectFiles/Ajit/Document-Scanner/example-images/AnacondaPrompt_01.JPG)
+![](./example-images/AnacondaPrompt_01.JPG)
 
 then It will Open a window like
 
-![](D:/PythonProjects/ProjectFiles/Ajit/Document-Scanner/example-images/AnacondaPrompt_02.JPG)
+![](./example-images/AnacondaPrompt_02.JPG)
 
 Click on Select Image to Select the image
 
-![](D:/PythonProjects/ProjectFiles/Ajit/Document-Scanner/example-images/AnacondaPrompt_03.JPG)
+![](./example-images/AnacondaPrompt_03.JPG)
 
 Click on process to Process the image.
 
-![](D:/PythonProjects/ProjectFiles/Ajit/Document-Scanner/example-images/AnacondaPrompt_04.JPG)
+![](./example-images/AnacondaPrompt_04.JPG)
 
 This is the processed image.
 
-![](D:/PythonProjects/ProjectFiles/Ajit/Document-Scanner/example-images/AnacondaPrompt_05.JPG)
+![](./example-images/AnacondaPrompt_05.JPG)
 
 Click on Save Image to save the image.
 
-![](D:/PythonProjects/ProjectFiles/Ajit/Document-Scanner/example-images/AnacondaPrompt_06.JPG)
+![](./example-images/AnacondaPrompt_06.JPG)
 
 
 =======
