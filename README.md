@@ -49,7 +49,3 @@ This is the processed image.
 Click on Save Image to save the image.
 
 ![](./example-images/AnacondaPrompt_06.JPG)
-
-
-=======
->>>>>>> a84120dbd33c925a8c06245b28fac31a377dd141
