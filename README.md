@@ -1,5 +1,6 @@
 # Document-Scanner
 This is for an image transformation framework which can be utilized for daily life needs and at the same time is easy to use.
+<<<<<<< HEAD
 
 
 ### Prerequisites
@@ -50,3 +51,5 @@ Click on Save Image to save the image.
 ![](D:/PythonProjects/ProjectFiles/Ajit/Document-Scanner/example-images/AnacondaPrompt_06.JPG)
 
 
+=======
+>>>>>>> a84120dbd33c925a8c06245b28fac31a377dd141
